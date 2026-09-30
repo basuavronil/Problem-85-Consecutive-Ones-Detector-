@@ -1,2 +1,2 @@
-# Problem-85-Consecutive-Ones-Detector-
-Interview question
+# Problem-85-Consecutive-Ones-Detector
+# Output
